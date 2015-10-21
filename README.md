@@ -28,6 +28,14 @@ FAN-FAIL notifications added to STATUS page & LCD showing the cube(s) w/ possibl
 Dies which cause constant soft / hard resets will be auto-bypassed for future resets.
 Message will be displayed on advanced page if any dies get autobypassed & option to clear the list.
 
+Added "Wall Watts" to ADVANCED page.
+
+Made "cube watts" consumption read out on ADVANCED page more accurate.
+
+Added option to SYSTEM page to change PSU effeciency - defaults to 85%.
+
+Added ability to choose between multiple webgui languages.
+
 Added more stats to STATUS page.
 
 Added miner name to not only STATUS but MINING & ADVANCED page.
