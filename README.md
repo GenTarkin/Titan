@@ -68,13 +68,21 @@ Option to enable/disable readonly API access from all IP's in MINING page.
 DCDC threshold settings & BFGMiner version is settable in webgui under ADVANCED tab.
 Current DCDC mod settings & running BFGMiner version are shown in ADVANCED tab.
 
+For questions or development progress / info / feedback go here:
+https://bitcointalk.org/index.php?topic=170332.msg12997995#msg12997995
+OR
+https://bitcointalk.org/index.php?topic=1161011.0
+OR
+https://litecointalk.org/index.php?topic=27635.0
+
+--------
+
 Ive implimented 2 payment options, details are below:
 
-1. Upfront payment of $50 for version which has daily donation fee disabled.. see  this post for details & questions:
-https://bitcointalk.org/index.php?topic=170332.msg12194406#msg12194406  (vegasguy is handling processing & distro of the img for prepaid version)
-TO PURCHASE go here: http://bitcoinlasvegas.net/kncminer-titan-custom-firmware-mod-paid-membership-page/
+1. Upfront payment of $50:
+TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com (btc payment only) OR http://www.ebay.com/sch/i.html?_nkw=titan+firmware
 
-2. The version available for download as an img here on github in my releases, this has a built in .75% DAILY donation where your Titan mines for me roughly 11mins /day.
+2. NO LONGER AVAILABLE! - The version available for download as an img here on github in my releases, this has a built in .75% DAILY donation where your Titan mines for me roughly 11mins /day.
 
 NOTE: The fee's / sales are ONLY for my custom modifications to the original firmware. Im not "selling" the original firmware.
 
