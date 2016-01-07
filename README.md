@@ -1,7 +1,7 @@
 # KNC Titan Improved Firmware
 
 *DUE TO ABUSE of the free version... only the PAID version is available now!*
-TO PURCHASE go here: http://bitcoinlasvegas.net/kncminer-titan-custom-firmware-mod-paid-membership-page/
+TO PURCHASE go here: gentarkincustomtitan.pcriot.com
 
 *NOTE!!!! THIS FIRMWARE WILL NOT WORK CORRECTLY FROM A SIMPLE GIT CLONE OF THE REPO!*
 *it MUST be installed properly via a release .bin found under releases tab!*
@@ -80,7 +80,7 @@ https://litecointalk.org/index.php?topic=27635.0
 Ive implimented 2 payment options, details are below:
 
 1. Upfront payment of $50:
-TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com (btc payment only) OR http://www.ebay.com/sch/i.html?_nkw=titan+firmware
+TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com (btc payment only)
 
 2. NO LONGER AVAILABLE! - The version available for download as an img here on github in my releases, this has a built in .75% DAILY donation where your Titan mines for me roughly 11mins /day.
 
