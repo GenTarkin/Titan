@@ -1,7 +1,7 @@
 # KNC Titan Improved Firmware
 
 *DUE TO ABUSE of the free version... only the PAID version is available now!*
-TO PURCHASE go here: gentarkincustomtitan.pcriot.com
+TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com
 
 *NOTE!!!! THIS FIRMWARE WILL NOT WORK CORRECTLY FROM A SIMPLE GIT CLONE OF THE REPO!*
 *it MUST be installed properly via a release .bin found under releases tab!*
