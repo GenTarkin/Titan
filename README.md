@@ -1,6 +1,6 @@
 # KNC Titan Improved Firmware
 
-*The only OFFICIAL sourcfe of MY firmware is HTTP://GENTARKINCUSTOMTITAN.PCRIOT.COM!*
+*The only OFFICIAL source of MY firmware is http://gentarkincustomtitan.pcriot.com!*
 ---
 *All other entities selling my firmware including ebay auctions is NOT AUTHORIZED NOR SUPPORTED by myself.*
 
