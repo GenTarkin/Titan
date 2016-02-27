@@ -1,0 +1,32 @@
+ALL ORIGINAL CODE in this project retains their respective copyrights & respective licenses.
+THE ORIGINAL CODE of this project can be found: https://github.com/KnCMiner/titan
+
+
+Furthermore, rights granted to me as a licensee through the MIT license chosen by KNC (the copyright owner of folder .knc-asic), I sublicense my(GenTarkin) code modifications & additions as follows:
+
+Copyright: (c) 2015 2016 GenTarkin
+All rights reserved
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted under the terms of the BSD License,
+    with the following additional (non-free) restrictions:
+
+    1.)  No portion of this notice shall be removed.
+    2.)  Credit shall not be taken for the creation of this source.
+    3.)  This code is not to be traded or sold.
+    4.)  Modification of the license activation(if exists) portion of this code is strictly prohibited.
+
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS ''AS IS'' AND
+    ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE
+    FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+    OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+    HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+    LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+    OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+    SUCH DAMAGE.
+
+On Debian systems, the complete text of the BSD License can be 
+found in `/usr/share/common-licenses/BSD'.
