@@ -1,9 +1,5 @@
 # KNC Titan Improved Firmware
 
-*The only OFFICIAL source of MY firmware is http://gentarkincustomtitan.pcriot.com!*
----
-*All other entities selling my firmware including ebay auctions is NOT AUTHORIZED NOR SUPPORTED by myself.*
-
 *DUE TO ABUSE of the free version... only the PAID version is available now!*
 TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com
 
@@ -13,24 +9,42 @@ TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com
 Based on 2.0 firmware for KNC KNCminer Titan, My modificatoins:
 *Coded w/ RELIABILITY & SAFETY of the Titan in mind...
 
+"Energy Saver" feature - automatically tunes die voltages for highest effeciency while keeping the die stable as possible &amp; hw% low. ~~MORE INFO <a href="http://gentarkincustomtitan.pcriot.com/energy-saver-faq-help/" target="_blank"><b>HERE!!!</b></a>
 
+DCDC Over-Current protection - any DCDC's detected above 46A will be issued a die reset, if that fails then die speed is clocked down significantly to prevent DCDC failure.
+
+Long Term Stability checking for all dies - bumps voltage up on a die if it becomes unstable more than 2x in a period of 2 days.
+
+Per RPI Cube Tracking - if cubes are added, removed or moved around their last known clocks and volts on a given pi will be restored.
+
+Internet outtage / dead pool detection to prevent miner from constantly resetting itself.
+
+Full translation of webgui pages to 80+ different languages.
+
+ADVANCED page now auto refreshes every 5 minutes.
+
+Noticed in rare cases dies are configured with positive voltage - wrote correction code for this.
+
+Ability for user to save Log Files to a file to be posted or emailed for diagnostic purposes. (This is part of the Energy Saver options).
+
+Added BALANCE strategy to MINER page - this may work better than LOAD-BALANCE for some users.
 
 New method of "Dead Die" handling - power cycles cube w/ "Dead Die" to attempt to get it working w/o manual power cycling.
 
 *NOTE*: There seems to be an ever growing amount of confusion as to whats meant above. The "Dead Die" only refers to dies which "go to sleep, drop, stop hashing" .. my firmware DOES NOT handle completely dead(hardware level) dies! Those still need to be set OFF!
 
-Added ability to switch between STOCK 5.1.0 BFGminer version vs newer 5.3.0 ver.
-
 Added DCDC temp monitoring & corrective action of 25mhz dropping on dies till DCDC temps are below threshold specified.
 
 In addition to the above, dies which were previously throttled will raise their clocks once under the threshold temperature setting by 10%.
+
+Throttled dies will be listed in ADVANCED page.
 
 FAN-FAIL protection - works when DCDC monitoring enabled, if temp rises 10C above threshold or goes to 115C it will set those dies to OFF.
 
 FAN-FAIL notifications added to STATUS page & LCD showing the cube(s) w/ possible failed fan.
 
 Dies which cause constant soft / hard resets will be auto-bypassed for future resets.
-Message will be displayed on advanced page if any dies get autobypassed & option to clear the list.
+Message will be displayed on ADVANCED page if any dies get autobypassed & option to clear the list.
 
 Added "Wall Watts" to ADVANCED page.
 
@@ -44,11 +58,7 @@ Added more stats to STATUS page.
 
 Added miner name to not only STATUS but MINING & ADVANCED page.
 
-Added "donation status" to reflect which donation plan ur Titan is running.
-
 Added Mod version info on STATUS page.
-
-Added "Upgrade" button to STATUS page to perform "OTA" updates to my latest releases!!
 
 Ability to flash my mod to stock 2.00 KNC firmware via SYSTEM->UPGRADE page using the .bin files hosted on my releases!
 
@@ -64,7 +74,9 @@ Integraded p4fg's KNCminion webgui interface & put link on status page to it.
 
 Option to enable/disable readonly API access from all IP's in MINING page.
 
+Product license activation.
 
+Full Copyright &amp; end user license information.
 
 --------
 
@@ -86,7 +98,7 @@ Ive implimented 2 payment options, details are below:
 1. Upfront payment of $50:
 TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com (btc payment only)
 
-2. NO LONGER AVAILABLE! - The version available for download as an img here on github in my releases, this has a built in .75% DAILY donation where your Titan mines for me roughly 11mins /day.
+2. THIS OPTION IS NO LONGER AVAILABLE! - The version available for download as an img here on github in my releases, this has a built in .75% DAILY donation where your Titan mines for me roughly 11mins /day.
 
 NOTE: The fee's / sales are ONLY for my custom modifications to the original firmware. Im not "selling" the original firmware.
 
@@ -94,8 +106,9 @@ NOTE: The fee's / sales are ONLY for my custom modifications to the original fir
 
 DISCLAIMER: In the unforunate even of ur Titan catastrophically failing while my firmware is installed... I am in no way responsible for the damages.
 
-*I have not coded anything harmful to the Titan, Ive largely created "smarter"(more reliable & safer) running condition handling of the Titan.
+*I have not coded anything harmful to the Titan, Ive largely created "smarter"(more reliable, safer and more energy efficient) running condition handling of the Titan.
 
 
-![Status Page](http://i.imgur.com/AMJFpLw.png)
-![Advanced Page](http://i.imgur.com/CjByNgb.png)
+![Status Page](http://i.imgur.com/GmSims2.jpg)
+![Advanced Page](http://i.imgur.com/w9EnfzO.jpg)
+![LCD MOD Info](http://i.imgur.com/hnUw2f1.jpg)
