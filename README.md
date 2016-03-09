@@ -95,7 +95,7 @@ https://litecointalk.org/index.php?topic=27635.0
 
 Ive implimented 2 payment options, details are below:
 
-1. Upfront payment of $50:
+1. Upfront payment of $75 for first copy, additional licenses $35:
 TO PURCHASE go here: http://gentarkincustomtitan.pcriot.com (btc payment only)
 
 2. THIS OPTION IS NO LONGER AVAILABLE! - The version available for download as an img here on github in my releases, this has a built in .75% DAILY donation where your Titan mines for me roughly 11mins /day.
